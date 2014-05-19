@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidMapsV2 - Prashant Adesara</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="gps.lable.gps">Warning</string>
+	<string name="gps.lable.warning_message">You need to start GPS to display Route on Map. Would you like to Enable it?</string>
+	<string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
